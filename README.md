@@ -10,7 +10,9 @@ Mettre en application des languages de programmation pour la création de site w
 -JavaScript
 
 # Logiciel 
-Phoenix Code ou Visual Code
+Phoenix Code 
+
+Visual Code
 # Auteurs
 -DOKANOU k. Daniel
 
