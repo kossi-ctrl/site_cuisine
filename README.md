@@ -1,5 +1,5 @@
 # site_cuisine
-c'est la création d'un site  web de recettes togo-mayotte 
+C'est la création d'un site  web de recettes Togo-Mayotte 
 # Auteurs
 -Dokanou k. Daniel
 
