@@ -1,7 +1,8 @@
 # Site Web de cuisine
 C'est la création d'un site  web de recettes Togo-Mayotte 
 # Objectifs 
-Application des languages pour la création de site web: 
+Mettre en application des languages de programmation pour la création de site web: 
+
 -HTML
 
 -CSS
