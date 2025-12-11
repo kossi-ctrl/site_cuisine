@@ -1,5 +1,16 @@
 # Site Web de cuisine
-C'est la création d'un site  web de recettes Togo-Mayotte 
+C'est la création d'un site  web de recettes Togo-Mayotte
+Un site web de recettes permettant d'afficher et de gérer des recettes de cuisine.
+
+# Installation
+1. Cloner le dépôt : `git clone https://github.com/ton-user/nom-du-repo.git`
+2. Ouvrir le projet dans Visual Studio Code
+3. Ouvrir `index.html` dans le navigateur
+   
+# Utilisation
+- Cliquer sur "Afficher les recettes" pour voir toutes les recettes
+- Cliquer sur "Voir nos recettes" pour aller sur la page complète
+
 # Objectifs 
 Mettre en application des languages de programmation pour la création de site web: 
 
@@ -13,11 +24,13 @@ Mettre en application des languages de programmation pour la création de site w
 Phoenix Code 
 
 Visual Code
+
 # Auteurs
 -DOKANOU k. Daniel
 
 -HALIM Thamra 
 
 -ZANGBE kossi
+
 # Licence 
 [Centre d'Études Supérieures de la Renaissance, Université de Tours](https://www.cesr.tours.fr),© Novembre 2025 par Daniel, Thamra & kossi est sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
