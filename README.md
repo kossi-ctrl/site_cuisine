@@ -2,14 +2,20 @@
 C'est la création d'un site  web de recettes Togo-Mayotte
 Un site web de recettes permettant d'afficher et de gérer des recettes de cuisine.
 
+---
+
 # Installation
 1. Cloner le dépôt : `git clone https://github.com/kossi-ctrl/site_cuisine.git`
 2. Ouvrir le projet dans Visual Studio Code
 3. Ouvrir `index.html` dans le navigateur
+
+---
    
 # Utilisation
 - Cliquer sur "Afficher les recettes" pour voir toutes les recettes
 - Cliquer sur "Voir nos recettes" pour aller sur la page complète
+
+---
 
 # Technologies
 
@@ -19,10 +25,14 @@ Un site web de recettes permettant d'afficher et de gérer des recettes de cuisi
 
 -JavaScript
 
+---
+
 # Logiciel 
 Phoenix Code 
 
 Visual Code
+
+---
 
 # Auteurs
 -DOKANOU k. Daniel
@@ -30,6 +40,8 @@ Visual Code
 -HALIM Thamra 
 
 -ZANGBE kossi
+
+---
 
 # Licence 
 [Centre d'Études Supérieures de la Renaissance, Université de Tours](https://www.cesr.tours.fr),© Novembre 2025 par Daniel, Thamra & kossi est sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
