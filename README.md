@@ -11,8 +11,7 @@ Un site web de recettes permettant d'afficher et de gérer des recettes de cuisi
 - Cliquer sur "Afficher les recettes" pour voir toutes les recettes
 - Cliquer sur "Voir nos recettes" pour aller sur la page complète
 
-# Objectifs 
-Mettre en application des languages de programmation pour la création de site web: 
+# Technologies
 
 -HTML
 
